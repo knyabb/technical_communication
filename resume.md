@@ -1,0 +1,64 @@
+---
+layout: "page"
+---
+
+
+<h2 style="text-align: center;">KEHINDE ELUKANLE</h2>
+<h4 style="text-align: center;">101-1695 Pembina Highway Winnipeg Manitoba R3T 2G6</h4>
+<h4 style="text-align: center;">kehindelukanle@gmail.com</h4>
+<h4 style="text-align: center;">(431) 335-4000</h4>
+
+
+<h3 style="text-align: center;">PROFESSIONAL SUMMARY</h3>
+
+<p style="text-align: left;">Technically sound Final Year Computer Science Student and Certified Project Manager with good knowledge of the software development lifecycle, unified modeling language, programming languages including Java, Python with a wide range of e-commerce applications and technology skills. Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective, responsive solutions. Solid understanding of project management processes, and currently seeking a full time position within a technology-driven organization.</p>
+
+<h3 style="text-align: center;">EDUCATION</h3>
+
+<h4 style="text-align: left;">Bachelor of Science in Computer Science | University of Manitoba</h4>
+<!---
+<h4 style="text-align: left;">University of Manitoba</h4>
+--->
+<h4 style="text-align: left;">Expected Date of Graduation : December 2023</h4>
+
+<h3 style="text-align: center;">SKILLS HIGHLIGHT</h3>
+
+* Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks.
+* Solid, persuasive and genuine communication (verbal and non-verbal), facilitation and relationship-building skills.
+* Quick learner and ready to master new technologies; successful at working in both team and self-directed settings.
+* Proficient in Java, Python, Ansible, Git, GitHub, Linux, Windows, MS Office Suite.
+
+
+<h3 style="text-align: center;">WORK EXPERIENCE</h3>
+
+<h4 style="text-align: left;">Business Analyst Intern – Royal Bank  of Canada, Canada </h4>
+<div style="text-align: left"> May 2021 – August 2022 </div> 
+
+* Developed compliance logical rules to audit running configuration of over 1000 production devices using Ansible Automation and Prime-infrastructure tool, resulting in accurate compliance visibility foe all stakeholders.
+* Increased compliance percentage by 78% by creating remediation workflow for non-compliant production devices thus standardizing their running configuration as per Cisco and RBC standard.
+* Reviewed existing solution to create an automated solution for Bell Shared Internet and compliance projects, eliminating code repetition and reducing time spent on scheduling change requests by 90%.
+* Collaborated with senior team members and engineers to implement compliance fix jobs, debug code error messages without impacting production workflow.
+* Maintained detailed code base and source control processes in GitHub to improve collaboration, visibility, accuracy, and efficiency.
+
+<h4 style="text-align: left;">Project Coordinator – Hunter Douglas Inc, Dubai, UAE </h4>
+<div style="text-align: left"> January 2017 – June 2017 </div>
+
+* Developed project requirements with the design team by selecting the best materials based on project specification using cost-benefit analysis, resulting in the most profitable project for the company.
+* Led the project team to implement improvements based on technology advancement by evaluating the effectiveness of current processes, thereby eliminating huge risk impact for all possible project delays.
+
+
+<h3 style="text-align: center;">Volunteer Experience</h3>
+<h4 style="text-align: left;">Project Administrator – Living Interiors & Furniture Contracting, Abu Dhabi, UAE </h4>
+<div style="text-align: left"> April 2015 – August 2016 </div>
+
+* Developed an automated project sales spreadsheet to eliminate huge sales discrepancies and provide accurate sales information for all stakeholders. 
+* Developed a questionnaire to collect qualitative data from all suppliers, built relationships with all suppliers to gain their confidence, ensure expedited means of delivery for all supplies, resulting in an increased client base by 15%. 
+
+<h4 style="text-align: left;">Project Planner– Franke Care System Middle East, Doha, Qatar</h4>
+<div style="text-align: left"> January 2013 – April 2015 </div>
+
+* Worked with a team of 4 professionals to create a project baseline program by translating project requirements into qualitative and quantitative data, resulting in project progress reports for management review.
+* Implemented mitigation plans on possible contractor delays to complete project deliverables on time, resulting in zero contractual penalties.
+
+<h3 style="text-align: center;">TRAINING AND CERTIFICATION</h3>
+<h4 style="text-align: left;">Project Management Professional (PMP) - Project Management Institute 2013</h4>
