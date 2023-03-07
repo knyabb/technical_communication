@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: | 
       - layout: left
         title: University of Manitoba
         caption: 2018 - Present
