@@ -78,11 +78,13 @@ content:
         title: University of Manitoba
         caption: 2018 - Present
         sub_title: BSc Computer Science
-        description: | # this will include new lines to allow paragraphs
-          - Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks.
-          - Solid, persuasive and genuine communication (verbal and non-verbal), facilitation and relationship-building skills.
-          - Quick learner and ready to master new technologies; successful at working in both team and self-directed settings.
-          - Proficient in Java, Python, Ansible, Git, GitHub, Linux, Windows, MS Office Suite.
+        description: |
+          this is great great 
+        # description: | # this will include new lines to allow paragraphs
+        #   - Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks.
+        #   - Solid, persuasive and genuine communication (verbal and non-verbal), facilitation and relationship-building skills.
+        #   - Quick learner and ready to master new technologies; successful at working in both team and self-directed settings.
+        #   - Proficient in Java, Python, Ansible, Git, GitHub, Linux, Windows, MS Office Suite.
 
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -93,21 +95,21 @@ content:
         # link_text: boringcompany.com
         sub_title: Business Analyst Intern
         caption: May 2021 - August 2022
-        description: | 
-          - Developed compliance logical rules to audit running configuration of over 1000 production devices using Ansible Automation and Prime-infrastructure tool, resulting in accurate compliance visibility foe all stakeholders.
-          - Increased compliance percentage by 78% by creating remediation workflow for non-compliant production devices thus standardizing their running configuration as per Cisco and RBC standard.
-          - Reviewed existing solution to create an automated solution for Bell Shared Internet and compliance projects, eliminating code repetition and reducing time spent on scheduling change requests by 90%.
-          - Collaborated with senior team members and engineers to implement compliance fix jobs, debug code error messages without impacting production workflow.
-          - Maintained detailed code base and source control processes in GitHub to improve collaboration, visibility, accuracy, and efficiency.
+        # description: | 
+        #   - Developed compliance logical rules to audit running configuration of over 1000 production devices using Ansible Automation and Prime-infrastructure tool, resulting in accurate compliance visibility foe all stakeholders.
+        #   - Increased compliance percentage by 78% by creating remediation workflow for non-compliant production devices thus standardizing their running configuration as per Cisco and RBC standard.
+        #   - Reviewed existing solution to create an automated solution for Bell Shared Internet and compliance projects, eliminating code repetition and reducing time spent on scheduling change requests by 90%.
+        #   - Collaborated with senior team members and engineers to implement compliance fix jobs, debug code error messages without impacting production workflow.
+        #   - Maintained detailed code base and source control processes in GitHub to improve collaboration, visibility, accuracy, and efficiency.
       - layout: left
         title: Hunter Douglas Inc, Dubai, UAE
         link: hunterdouglas.com
         # link_text: boringcompany.com
         sub_title: Project Coordinator
         caption: January 2017 – June 2017
-        description: | 
-          - Developed project requirements with the design team by selecting the best materials based on project specification using cost-benefit analysis, resulting in the most profitable project for the company
-          - Led the project team to implement improvements based on technology advancement by evaluating the effectiveness of current processes, thereby eliminating huge risk impact for all possible project delays.
+        # description: | 
+        #   - Developed project requirements with the design team by selecting the best materials based on project specification using cost-benefit analysis, resulting in the most profitable project for the company
+        #   - Led the project team to implement improvements based on technology advancement by evaluating the effectiveness of current processes, thereby eliminating huge risk impact for all possible project delays.
 
   - title: Volunteer Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -118,9 +120,9 @@ content:
         # link_text: boringcompany.com
         sub_title: Project Administrator
         caption: April 2015 – August 2016
-        description: | 
-          - Developed an automated project sales spreadsheet to eliminate huge sales discrepancies and provide accurate sales information for all stakeholders.
-          - Developed a questionnaire to collect qualitative data from all suppliers, built relationships with all suppliers to gain their confidence, ensure expedited means of delivery for all supplies, resulting in an increased client base by 15%. 
+        # description: | 
+        #   - Developed an automated project sales spreadsheet to eliminate huge sales discrepancies and provide accurate sales information for all stakeholders.
+        #   - Developed a questionnaire to collect qualitative data from all suppliers, built relationships with all suppliers to gain their confidence, ensure expedited means of delivery for all supplies, resulting in an increased client base by 15%. 
 
       - layout: left
         title: Franke Care System Middle East, Doha, Qatar
@@ -128,9 +130,9 @@ content:
         # link_text: boringcompany.com
         sub_title: Project Planner
         caption: January 2013 – April 2015
-        description: | 
-          - Worked with a team of 4 professionals to create a project baseline program by translating project requirements into qualitative and quantitative data, resulting in project progress reports for management review.
-          - Implemented mitigation plans on possible contractor delays to complete project deliverables on time, resulting in zero contractual penalties.
+        # description: | 
+        #   - Worked with a team of 4 professionals to create a project baseline program by translating project requirements into qualitative and quantitative data, resulting in project progress reports for management review.
+        #   - Implemented mitigation plans on possible contractor delays to complete project deliverables on time, resulting in zero contractual penalties.
 
    - title: Training and Certification # Title for the section
     layout: text # Type of content section (list/text)
