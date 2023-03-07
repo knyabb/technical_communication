@@ -1,3 +1,16 @@
+## Title: Technical Communication
+
+#### Purpose: To describe how resume is hosted on my static website
+
+#### Prerequisite
+
+#### Instructions
+
+
+
+
+
+
 Your README has two goals:
 1. Describe the practical steps of how to host and format a resume using the software stack
 you used for this assignment. The most common one is Markdown, VS Code, GitHub
