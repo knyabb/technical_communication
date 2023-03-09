@@ -1,6 +1,9 @@
-## Title: Technical Communication
+### Technical Communication Project
 
-#### Purpose: To describe how resume is hosted on my static website
+### Purpose
+
+* To describe practical on how to host and format a resume using VS Code, Git/GitHub, Github Pages, and Jekyll.
+* To relate each practical step to principles of technical writing as explained in Andrew Etter's [book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).  
 
 #### Prerequisite
 
