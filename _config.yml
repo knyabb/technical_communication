@@ -72,7 +72,21 @@ content:
         quote: >
           This is a pratical project to understand Etter's technical communication principle.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning how to build static website using <mark>Jekyll</mark> and hosting <mark>README</mark> on github via command line integration. I have learned how to use lightweight markup and version control to create elegant resume and README for target audience. I documented how i used a dynamic and versatile approach for this project in the <mark>README</mark>
+          I started this project as a way of learning how to build static website using <mark>Jekyll</mark> <mark>github pages</mark> and hosting <mark>README</mark> <mark>config file</mark>on github via command line integration. I have learned how to use lightweight markup and version control to create elegant resume and README for target audience. I documented how i used a dynamic and versatile approach for this project in the <mark>README</mark>
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Royal Bank Canada
+        link: rbcroyalbank.com
+        # link_text: boringcompany.com
+        sub_title: Business Analyst Intern
+        caption: May 2021 - August 2022
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Developed compliance 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -86,25 +100,27 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Developed compliance logical rules to audit running configuration of over 1000 production devices using Ansible Automation and Prime-infrastructure tool, resulting in accurate compliance visibility for all stakeholders.
+            Developed compliance logical rules to audit the running configuration of over 1000 production devices using Ansible Automation and Prime-infrastructure tool, resulting in accurate compliance visibility for all stakeholders.
 
-            Increased compliance percentage by 78% by creating remediation workflow for non-compliant production devices thus standardizing their running configuration as per Cisco and RBC standard.
+            Increased compliance percentage by 78% by creating remediation workflow for non-compliant production devices thus standardizing their running configuration as per Cisco and RBC standards.
 
             Reviewed existing solution to create an automated solution for Bell Shared Internet and compliance projects, eliminating code repetition and reducing time spent on scheduling change requests by 90%.
 
-            Collaborated with senior team members and engineers to implement compliance fix jobs, debug code error messages without impacting production workflow.
+            Collaborated with senior team members and engineers to implement compliance fix jobs, and debug code error messages without impacting production workflow.
 
             Maintained detailed code base and source control processes in GitHub to improve collaboration, visibility, accuracy, and efficiency.
       - layout: left
-        title: Royal Bank Canada
-        link: rbcroyalbank.com
+        title: Hunter Douglas Inc, Dubai
+        link: hunterdouglas.com
         # link_text: boringcompany.com
-        sub_title: Business Analyst Intern
-        caption: May 2021 - August 2022
+        sub_title: Project Coordinator
+        caption: January 2017 – June 2017
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Developed compliance logical rules to audit running configuration of over 1000 production devices using Ansible Automation and Prime-infrastructure tool, resulting in accurate compliance visibility for all stakeholders.
+            Developed project requirements with the design team by selecting the best materials based on project specifications using cost-benefit analysis, resulting in the most profitable project for the company.
+
+            Led the project team to implement improvements based on technology advancement by evaluating the effectiveness of current processes, thereby eliminating huge risk impact for all possible project delays.
 
   - title: Volunteer # Title for the section
     layout: list # Type of content section (list/text)
