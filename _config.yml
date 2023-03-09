@@ -60,7 +60,7 @@ content:
             url: github.com/knyabb/technical_communication
 
         quote: >
-          This is a pratical project to understand Etter's technical communication principle.
+          This is a pratical project to understand and implement Etter's technical communication principle.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning how to build static website using <mark>Jekyll</mark> <mark>github pages</mark> and hosting <mark>README</mark> <mark>config file</mark>on github via command line integration. I have learned how to use lightweight markup and version control to create elegant resume and README for target audience. I documented how i used a dynamic and versatile approach for this project in the <mark>README</mark>
 
@@ -88,13 +88,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Royal Bank Canada
+        title: Royal Bank Canada, Canada
         link: rbcroyalbank.com
         # link_text: boringcompany.com
         sub_title: Business Analyst Intern
         caption: May 2021 - August 2022
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Developed compliance logical rules to audit the running configuration of over 1000 production devices using Ansible Automation and Prime-infrastructure tool, resulting in accurate compliance visibility for all stakeholders.
 
@@ -106,31 +106,45 @@ content:
 
             Maintained detailed code base and source control processes in GitHub to improve collaboration, visibility, accuracy, and efficiency.
       - layout: left
-        title: Hunter Douglas Inc, Dubai
+        title: Hunter Douglas Inc, Dubai, UAE
         link: hunterdouglas.com
         # link_text: boringcompany.com
         sub_title: Project Coordinator
         caption: January 2017 – June 2017
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Developed project requirements with the design team by selecting the best materials based on project specifications using cost-benefit analysis, resulting in the most profitable project for the company.
 
             Led the project team to implement improvements based on technology advancement by evaluating the effectiveness of current processes, thereby eliminating huge risk impact for all possible project delays.
 
-  - title: Volunteer # Title for the section
+  - title: Volunteer Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Living Interiors & Furniture Contracting, Abu Dhabi, UAE
+        link: livinginteriors.com
+        # link_text: boringcompany.com
+        sub_title: Project Administrator
+        caption: April 2015 – August 2016
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Developed an automated project sales spreadsheet to eliminate huge sales discrepancies and provide accurate sales information for all stakeholders.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Developed a questionnaire to collect qualitative data from all suppliers, built relationships with all suppliers to gain their confidence, and ensure expedited means of delivery for all supplies, resulting in an increased client base by 15%.
+      - layout: left
+        title: Franke Care System Middle East, Doha, Qatar
+        link: frankecare.com
+        # link_text: boringcompany.com
+        sub_title: Project Planner
+        caption: January 2013 – April 2015
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Worked with a team of 4 professionals to create a project baseline program by translating project requirements into qualitative and quantitative data, resulting in project progress reports for management review.
+
+          Implemented mitigation plans on possible contractor delays to complete project deliverables on time, resulting in zero contractual penalties.
 
   - title: A Little More About Me
     layout: text
