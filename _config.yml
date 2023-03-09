@@ -95,6 +95,16 @@ content:
             Collaborated with senior team members and engineers to implement compliance fix jobs, debug code error messages without impacting production workflow.
 
             Maintained detailed code base and source control processes in GitHub to improve collaboration, visibility, accuracy, and efficiency.
+      - layout: left
+        title: Royal Bank Canada
+        link: rbcroyalbank.com
+        # link_text: boringcompany.com
+        sub_title: Business Analyst Intern
+        caption: May 2021 - August 2022
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Developed compliance logical rules to audit running configuration of over 1000 production devices using Ansible Automation and Prime-infrastructure tool, resulting in accurate compliance visibility for all stakeholders.
 
   - title: Volunteer # Title for the section
     layout: list # Type of content section (list/text)
