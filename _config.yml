@@ -17,17 +17,9 @@ darkmode: false
 # Social links
 twitter_username: KElukanle
 github_username:  knyabb
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
+
 linkedin_username: kehinde elukanle
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+
 
 # Additional icon links
 # additional_links:
@@ -50,7 +42,7 @@ about_profile_image: images/black_girl.jpg
 about_content: | # this will include new lines to allow paragraphs
  Technically sound Final Year Computer Science Student and Certified Project Manager with good knowledge of the software development lifecycle, unified modeling language, programming languages including Java, Python with a wide range of e-commerce applications and technology skills. Known for excellent troubleshooting skills, able to analyze code and engineer well-researched, cost-effective, responsive solutions. Solid understanding of project management processes, and currently seeking a full time position within a technology-driven organization.
 
- I am proficient in <mark>Java</mark> <mark>Python</mark> <mark>Git</mark> <mark>Github</mark> <mark>Linux</mark> <mark>Windows</mark> <mark>MS Office Suite</mark>
+
 
 
 
@@ -61,14 +53,12 @@ content:
       - layout: top-middle
         title: Technical Communication
         link: github.com/knyabb
-        # link_text: Project Website
+        
         additional_links:
           - title:  knyabb/technical_communication
             icon: fab fa-github
             url: github.com/knyabb/technical_communication
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+
         quote: >
           This is a pratical project to understand Etter's technical communication principle.
         description: | # this will include new lines to allow paragraphs
@@ -78,15 +68,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Royal Bank Canada
-        link: rbcroyalbank.com
+        title: University of Manitoba
+        link: umanitoba.ca
         # link_text: boringcompany.com
-        sub_title: Business Analyst Intern
-        caption: May 2021 - August 2022
+        sub_title: BSc Computer Science
+        caption: May 2018 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Developed compliance 
+            Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks.
+
+            Solid, persuasive, and genuine communication (verbal and non-verbal), facilitation, and relationship-building skills.
+
+            Quick learner and ready to master new technologies; successful at working in a team and self-directed settings.
+
+            Proficient in <mark>Java</mark> <mark>Python</mark> <mark>Git</mark> <mark>Github</mark> <mark>Linux</mark> <mark>Windows</mark> <mark>MS Office Suite</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
