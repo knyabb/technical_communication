@@ -73,8 +73,8 @@ content:
         # link_text: boringcompany.com
         sub_title: BSc Computer Science
         caption: May 2018 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks.
 
