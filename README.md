@@ -5,7 +5,8 @@
 * To describe practical on how to host and format a resume using VS Code, Git/GitHub, Github Pages, and Jekyll.
 * To relate each practical step to principles of technical writing as explained in Andrew Etter's [book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).  
 
-#### Prerequisite
+### Prerequisite
+* [elukanle_resume](https://github.com/knyabb/technical_communication/blob/main/resume.md)
 
 #### Instructions
 
