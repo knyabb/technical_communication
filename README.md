@@ -8,11 +8,16 @@
 ### Prerequisite
 * [elukanle_resume](https://github.com/knyabb/technical_communication/blob/main/resume.md)
 
-#### Instructions
+### Instructions on how to host and format resume on a static website
 
 
+### Instructions on how to host and format resume on a Github pages
 
 
+### More Resources
+
+
+### FAQs
 
 
 Your README has two goals:
