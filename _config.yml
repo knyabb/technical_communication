@@ -48,7 +48,9 @@ linkedin_username: kehinde elukanle
 # about_title: About Me
 about_profile_image: images/black_girl.jpg
 about_content: | # this will include new lines to allow paragraphs
- Technically sound Final Year Computer Science Student and Certified Project Manager with good knowledge of the software development lifecycle, unified modeling language, programming languages including Java, Python with a wide range of e-commerce applications and technology skills. Known for excellent troubleshooting skills, able to analyze code and engineer well-researched, cost-effective, responsive solutions. Solid understanding of project management processes, and currently seeking a full time position within a technology-driven organization
+ Technically sound Final Year Computer Science Student and Certified Project Manager with good knowledge of the software development lifecycle, unified modeling language, programming languages including Java, Python with a wide range of e-commerce applications and technology skills. Known for excellent troubleshooting skills, able to analyze code and engineer well-researched, cost-effective, responsive solutions. Solid understanding of project management processes, and currently seeking a full time position within a technology-driven organization.
+
+ I am proficient in <mark>Jave</mark>, <mark>Python</mark>, <mark>Git</mark>, <mark>Github</mark>, <mark>Linux</mark>, <mark>Windows</mark>, <mark>MS Office Suite</mark>
 
 
 
@@ -70,7 +72,7 @@ content:
         quote: >
           This is a pratical project to understand Etter's technical communication principle.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning how to build static website using <mark>Jekyll</mark> and hosting README on github via `command line integration. I have learned how to use lightweight markup and version control to create elegant resume and README for target audience.
+          I started this project as a way of learning how to build static website using <mark>Jekyll</mark> and hosting <mark>README</mark> on github via command line integration. I have learned how to use lightweight markup and version control to create elegant resume and README for target audience. I documented how i used a dynamic and versatile approach for this project in the <mark>README</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
