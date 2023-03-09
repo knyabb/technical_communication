@@ -146,14 +146,19 @@ content:
 
           Implemented mitigation plans on possible contractor delays to complete project deliverables on time, resulting in zero contractual penalties.
 
-  - title: A Little More About Me
+  - title: Certification
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Project Management Professional (PMP) - Project Management Institute 2013 
+
+  - title: A Little More About MeS
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in computer science and project management some of my other interests and hobbies are:
+      - Creating healthy recipes
+      - Walking
+      - Napping
+      - [Becoming a great mummy](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
