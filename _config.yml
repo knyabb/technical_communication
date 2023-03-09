@@ -70,7 +70,7 @@ content:
         quote: >
           This is a pratical project to understand Etter's technical communication principle.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning how to build static website, <mark>Jekyll</mark> and command line integration. I have learned many skills through this and been I'm very proud of having this in my portfolio.
+          I started this project as a way of learning how to build static website using <mark>Jekyll</mark> and hosting README on github via `command line integration. I have learned how to use lightweight markup and version control to create elegant resume and README for target audience.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
