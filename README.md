@@ -10,6 +10,9 @@
 ### **Prerequisite**
 * [elukanle_resume](https://github.com/knyabb/technical_communication/blob/main/resume.md)
 
+### **How Practical Steps Implemented Relates to Andrew Etter's Principle of Technical Writing**
+
+
 
 #### **Instruction on how to download and install software applications on windows**
 1. **Jekyll**
@@ -73,15 +76,15 @@
         ```
 
 #### **Instructions on how to host and format resume on a Github pages**
-1. **Select resume theme and template**
+1. **Select a markdown flavoured resume theme and template**
 
     1. Use a **theme** powered by Jekyll and Github [modern-resume-theme](https://rubygems.org/gems/modern-resume-theme).
     2. Download [resume-template-folder](https://github.com/sproogen/modern-resume-theme#step-3---download-resume-template) to access config file.
 
-2. **Use Github**
+2. **On your Github account, create a public repository**
     1. Follow 1 to create [github repository](https://pages.github.com/) to host resume template and README file.
 
-3. **Use VS Code**
+3. **Use VS Code to edit markdown and yml files**
     1. Open **VSCode**
     2. Click on **File** on the menu tab
     3. Click on **Open Folder** on the File menu
@@ -156,21 +159,14 @@
             git push origin main
             ```
 
+### **More Resources**
+    * link to resume theme
 
+### **FAQs**
 
+### **Author And Acknolegment**
 
-### More Resources
-* link to resume theme
-
-### Etthers book analysis
-
-### FAQs
-
-### Author And Acknolegment
-
-### Licence
-
-### Images
+### **Licence**
 
 <!--- ![Shallow Backup GIF Demo](img/shallow-backup-demo.gif) --->
 
