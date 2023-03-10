@@ -185,12 +185,5 @@ To host on github pages, i used a resume template and theme supported by github 
 
 ### **Licence**
 * The resume theme is available under the terms of the [MIT License](https://opensource.org/license/mit/).
-    
+
 * The resume image is available under the terms of the [Adobe Stock License](https://stock.adobe.com/ca/license-terms).
-
-### **images**
-
-<!--- ![Shallow Backup GIF Demo](img/shallow-backup-demo.gif) --->
-
-* git bash is the source control mangt system on windows, allows the user to type/run git commands that allows user to access remote repositoty on github
-
