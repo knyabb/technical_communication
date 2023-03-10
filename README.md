@@ -26,14 +26,14 @@
     * Install **Git bash** by following the steps on [How to Install Git Bash](https://www.youtube.com/watch?v=7BOrUHFu44A).
 
 4. **GitHub**
-    * Create an account on [github](github.com). 
+    * Create an account on [github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) using 1. 
 
 
 ### Instructions on how to host and format resume on a static website
 1. **To create a static website**
 
     1. Open **Command Prompt**.
-    2. Enter command below to check if jekyll is installed, if not, please follow download and install instruction above.
+    2. Enter command below to check if jekyll is installed, if not, please follow download and install instruction 1 above.
         ```
         jekyll -v
         ```
