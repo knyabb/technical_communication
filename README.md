@@ -32,29 +32,39 @@
 ### Instructions on how to host and format resume on a static website
 1. **To create a static website**
 
-    1. Open **Command Prompt** 
-    2. Enter command below to check if jekyll is installed, if not, please follow download and install instruction above
-        * jekyll -v
-    3. Open documents folder by entering the command below
-        * cd document
-    4. Create your static website inside document folder by entering the command below
-        * jekyll new demo-site
-    5. Move into the folder that contains your static website by entering the command below
-        * cd demo-site
-    6. Launch the static website by entering the command below
-        * bundle exec jekyll serve
-    7. View static website by entering `localhost 4000` on your web browser 
+    1. Open **Command Prompt**.
+    2. Enter command below to check if jekyll is installed, if not, please follow download and install instruction above.
+        ```
+        jekyll -v
+        ```
+    3. Open documents folder by entering the command below.
+            ```
+            cd document
+            ```
+    4. Create your static website inside document folder by entering the command below.
+            ```
+            jekyll new demo-site
+            ```
+    5. Move into the folder that contains your static website by entering the command below.
+        ```
+        cd demo-site
+        ```
+    6. Launch the static website by entering the command below.
+        ```
+        bundle exec jekyll serve
+        ```
+    7. View static website by entering **localhost4000** on your web browser.
 
 2. **To format and host resume on a static website**
     
-    1. Open **VSCode**
-    2. Click on **File** on the menu tab
-    3. Click on **open folder** on the File menu
-    4. Select **demo-site** folder to open the static site folder on VS Code
-    5. Create a markdown file **resume.md** inside **demo-site** folder
-    6. Copy and paste your existing resume content into **resume.md**
-    7. Format resume as shown on [U of M's Career Services Resume Workbook](https://umanitoba.ca/student/careerservices/media/Resume.pdf)
-    8. Add the Front Matter below to the top of **resume.md** page to display resume as a page on the static website
+    1. Open **VSCode**.
+    2. Click on **File** on the menu tab.
+    3. Click on **Open Folder** on the File menu.
+    4. Select **demo-site** folder to open the static site folder on VS Code.
+    5. Create a markdown file **resume.md** inside **demo-site** folder.
+    6. Copy and paste your existing resume content into **resume.md**.
+    7. Format resume as shown on [U of M's Career Services Resume Workbook](https://umanitoba.ca/student/careerservices/media/Resume.pdf).
+    8. Add the Front Matter below to the top of **resume.md** page to display resume as a page on the static website.
         ```
         ---
         layout: page
@@ -62,50 +72,97 @@
         ```
 
 ### Instructions on how to host and format resume on a Github pages
+1. **Select resume theme and template**
+
+    1. Use a **theme** powered by Jekyll and Github [modern-resume-theme](https://rubygems.org/gems/modern-resume-theme).
+    2. Download [resume-template-folder](https://github.com/sproogen/modern-resume-theme#step-3---download-resume-template) to access config file.
+
+2. **Use Github**
+    1. Create a [techical_communication](https://github.com/sproogen/modern-resume-theme#step-3---download-resume-template) github repository to host resume template and README file.
+
+3. **Use VS Code**
+    1. Open **VSCode**
+    2. Click on **File** on the menu tab
+    3. Click on **Open Folder** on the File menu
+    4. Select downloaded **resume-template-folder** to open on VS Code.
+    5. Edit the **_config.yml** file to reflect content of your **resume**
+    6. Edit the **README.md** file to show practical steps taken to implement the project
+
+4. **Use Git Bash to send resume-template-folder to remote server**
+    1. Open **Git Bash**.
+    2. Move to the folder that contains the downloaded **resume-template** by entering the command below.
+        * cd documents
+    3. Move to the **resume-template-folder** by entering the command below
+        * cd resume-template-folder
+    4. Inside the **resume-template-folder** , follow the steps below push files on **VS Code** to **Github** via **Git Bash**
+        * Initialize as a git folder
+            ```
+            git init
+            ```
+        * Connect to Github repository
+            ```
+            git remote add origin https://github.com/knyabb/technical_communication.git
+            ```
+        * Create a gh-pages branch on the remote server
+            ```
+            git checkout -b gh-pages
+            ```
+        * Stage files that will be push to the remote server
+            ```
+            git add .
+            ```
+        * Commit files with appropriate commit message
+            ```
+            git commit -m "initial commit"
+            ```
+        * Push files to appropriate branch on the remote server
+            ```
+            git push origin gh-pages
+            ```
+    5. **Use Git Bash to send README.md to remote server**
+        1. Open **Git Bash**.
+    2. Move to the folder that contains the downloaded **resume-template** by entering the command below.
+        * cd documents
+    3. Move to the **resume-template-folder** by entering the command below
+        * cd resume-template-folder
+    4. Inside the **resume-template-folder** , follow the steps below push files on **VS Code** to **Github** via **Git Bash** 
+        * check branch
+            ```
+            git branch
+            ```
+        * if branch is on gh-pages, switch branch to main branch
+            ```
+            git checkout main
+            ```
+        * Stage files that will be push to the remote server
+            ```
+            git add .
+            ```
+        * Commit files with appropriate commit message
+            ```
+            git commit -m "update README file"
+            ```
+        * Push file to appropriate branch on the remote server
+            ```
+            git push origin main
+            ```
+
+
 
 
 ### More Resources
 * link to resume theme
 
+### Etthers book analysis
 
 ### FAQs
 
+### Author And Acknolegment
+
 ### Licence
 
+### Images
+
+<!--- ![Shallow Backup GIF Demo](img/shallow-backup-demo.gif) --->
+
 * git bash is the source control mangt system on windows, allows the user to type/run git commands that allows user to access remote repositoty on github
-
-# DELETE LATER
-Your README has two goals:
-1. Describe the practical steps of how to host and format a resume using the software stack
-you used for this assignment. The most common one is Markdown, VS Code, GitHub
-Pages, and Jekyll.
-
-2. Relate the practical steps described above to the general principles of current Technical
-Writing, as explained in Andrew Etter's book Modern Technical Writing
-Each README must contain these topics/components:
-
-1. Title
-2. Purpose: describe the README's purpose (see above)
-3. Prerequisites: This should include a resume formatted in Markdown
-Include a link to a good Markdown tutorial under "More Resources." You do not need
-to explain how to use Markdown.
-4. Instructions, including animated gif
-Use headings and numbered lists
-Remember to use each step to explain
-both how to follow the tools and model Etter
-recommends and how to host a resume in GitHub Pages or Codeberg Pages. It's up to
-you whether you 1) begin with Etter's general process and then demonstrate the
-process with a practical step involving your resume, or 2) begin with the practical
-steps for hosting a resume and relate each practical step to a concept in Etter's book.
-Add an animated gif: Include a demo using an animated gif in your README. The gif
-should feature your own resume (showing your own name).
-More Resources - include:
-1. a Markdown tutorial
-2. a link to Etter's book
-3. at least one other resource
-5. Authors and Acknowledgments: credit template authors and group members
-6. FAQs - add (and answer) two FAQs, as described below:
-1. A question about the overall process, such as "Why is Markdown better than a word
-processor?"
-2. A question about the practical details, such as "Why is my resume not showing up?"
-You may use the example FAQs, or come up with your own.
