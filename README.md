@@ -187,3 +187,8 @@ To host on github pages, i used a resume template and theme supported by github 
 * The resume theme is available under the terms of the [MIT License](https://opensource.org/license/mit/).
 
 * The resume image is available under the terms of the [Adobe Stock License](https://stock.adobe.com/ca/license-terms).
+
+
+### **Animated Resume**
+
+![Animated Resume GIF Demo](img/animated-resume.gif)
