@@ -12,7 +12,7 @@
 
 ### **How Practical Steps Implemented Relates to Andrew Etter's Principle of Technical Writing**
 ```
-Practical steps implemented in this project relates to principle to technical writing described in Andrew Etter's book in such a way that my resume was originally editted and formatted in a markdown file on VS Code; then i use Git Bash to check out a repository on Github, apply a customised theme to the markdown file and host on Github pages via command line integration; a static website is produced. This ensures a more dynamic and versatile approach to documentation.
+Practical steps implemented in this project relates to principle to technical writing described in Andrew Etter's book in such a way that my resume was originally editted and formatted in a markdown file on VS Code; then i use Git Bash to check out a repository on Github, apply a customised theme to the markdown file and host on Github pages via command line integration; a static website is produced. This ensures a more dynamic and versatile approach to produce scannable and searchable technical content and easy access for contribution.
 ```
 
 #### **Instruction on how to download and install software applications on windows**
