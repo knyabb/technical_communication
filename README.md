@@ -38,13 +38,13 @@
         jekyll -v
         ```
     3. Open documents folder by entering the command below.
-            ```
-            cd document
-            ```
+        ```
+        cd document
+        ```
     4. Create your static website inside document folder by entering the command below.
-            ```
-            jekyll new demo-site
-            ```
+         ```
+        jekyll new demo-site
+        ```
     5. Move into the folder that contains your static website by entering the command below.
         ```
         cd demo-site
@@ -91,9 +91,13 @@
 4. **Use Git Bash to send resume-template-folder to remote server**
     1. Open **Git Bash**.
     2. Move to the folder that contains the downloaded **resume-template** by entering the command below.
-        * cd documents
+        ```
+        cd documents
+        ```
     3. Move to the **resume-template-folder** by entering the command below
-        * cd resume-template-folder
+        ```
+        cd resume-template-
+        ```
     4. Inside the **resume-template-folder** , follow the steps below push files on **VS Code** to **Github** via **Git Bash**
         * Initialize as a git folder
             ```
