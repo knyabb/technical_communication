@@ -1,17 +1,17 @@
-### Technical Communication Project
+## **Technical Communication Project**
 
 
-### Purpose
+### **Purpose**
 
 * To describe practical steps on how to host and format a resume using VS Code, Git/Gitbash/GitHub, Github Pages, and Jekyll.
 * To relate each practical step to principles of technical writing as explained in Andrew Etter's [book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).  
 
 
-### Prerequisite
+### **Prerequisite**
 * [elukanle_resume](https://github.com/knyabb/technical_communication/blob/main/resume.md)
 
 
-### Instruction on how to download and install software applications on windows
+#### **Instruction on how to download and install software applications on windows**
 1. **Jekyll**
 
     * Download [RubyInstaller](https://rubyinstaller.org/downloads/) for windows.
@@ -29,7 +29,8 @@
     * Create an account on [github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) using 1. 
 
 
-### Instructions on how to host and format resume on a static website
+#### **Instructions on how to host and format resume on a static website**
+
 1. **To create a static website**
 
     1. Open **Command Prompt**.
@@ -71,7 +72,7 @@
         ---
         ```
 
-### Instructions on how to host and format resume on a Github pages
+#### **Instructions on how to host and format resume on a Github pages**
 1. **Select resume theme and template**
 
     1. Use a **theme** powered by Jekyll and Github [modern-resume-theme](https://rubygems.org/gems/modern-resume-theme).
@@ -123,12 +124,16 @@
             ```
             git push origin gh-pages
             ```
-    5. **Use Git Bash to send README.md to remote server**
-        1. Open **Git Bash**.
+5. **Use Git Bash to send README.md to remote server**
+    1. Open **Git Bash**.
     2. Move to the folder that contains the downloaded **resume-template** by entering the command below.
-        * cd documents
+        ```
+        cd documents
+        ```
     3. Move to the **resume-template-folder** by entering the command below
-        * cd resume-template-folder
+        ```
+        cd resume-template-folder
+        ```
     4. Inside the **resume-template-folder** , follow the steps below push files on **VS Code** to **Github** via **Git Bash** 
         * check branch
             ```
