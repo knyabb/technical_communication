@@ -78,7 +78,7 @@
     2. Download [resume-template-folder](https://github.com/sproogen/modern-resume-theme#step-3---download-resume-template) to access config file.
 
 2. **Use Github**
-    1. Create a [techical_communication](https://github.com/sproogen/modern-resume-theme#step-3---download-resume-template) github repository to host resume template and README file.
+    1. Follow 1 to create [github repository](https://pages.github.com/) to host resume template and README file.
 
 3. **Use VS Code**
     1. Open **VSCode**
