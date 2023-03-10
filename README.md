@@ -11,8 +11,9 @@
 * [elukanle_resume](https://github.com/knyabb/technical_communication/blob/main/resume.md)
 
 ### **How Practical Steps Implemented Relates to Andrew Etter's Principle of Technical Writing**
-
-
+```
+Practical steps implemented in this project relates to principle to technical writing described in Andrew Etter's book in such a way that my resume was originally editted and formatted in a markdown file on VS Code; then i use Git Bash to check out a repository on Github, apply a customised theme to the markdown file and host on Github pages via command line integration; a static website is produced. This ensures a more dynamic and versatile approach to documentation.
+```
 
 #### **Instruction on how to download and install software applications on windows**
 1. **Jekyll**
@@ -159,15 +160,37 @@
             git push origin main
             ```
 
-### **More Resources**
-    * link to resume theme
-
 ### **FAQs**
+* Why is Markdown better than Word Processor?
+```
+Markdown has a simple and faster formating syntax. Also documents written in Markdown can be exported into any format you want, Word Doc, PDF, HTML. Markdown document ensures life span as they are kept in version control.
+```
+* Why did my github pages did not build successfully?
+```
+To host on github pages, i used a resume template and theme supported by github pages. This theme has a default layout which makes modifying config file limited. Make sure you edit your config.yml file such that it does not distort the default layout.
+```
 
-### **Author And Acknolegment**
+
+### **More Resources**
+* [Markdown Tutorial](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [Andrew Etter's Book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [Modern Resume Theme](https://github.com/sproogen/modern-resume-theme)
+
+### **Author and Acknowledgement**
+    * Author - Kehinde Elukanle
+    * Group Member
+        * Robert Loader
+        * Chang Geng
+        * Michael Akpan
 
 ### **Licence**
+* The resume theme is available under the terms of the [MIT License](https://opensource.org/license/mit/).
+    
+* The resume image is available under the terms of the [Adobe Stock License](https://stock.adobe.com/ca/license-terms).
+
+### **images**
 
 <!--- ![Shallow Backup GIF Demo](img/shallow-backup-demo.gif) --->
 
 * git bash is the source control mangt system on windows, allows the user to type/run git commands that allows user to access remote repositoty on github
+
