@@ -58,7 +58,10 @@ Practical steps implemented in this project relates to principle to technical wr
         ```
         bundle exec jekyll serve
         ```
-    7. View static website by entering **localhost4000** on your web browser.
+    7. View static website by entering address below on your web browser.
+        ```
+        localhost:4000
+        ```
 
 2. **To format and host resume on a static website**
     
