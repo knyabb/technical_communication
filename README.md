@@ -178,7 +178,7 @@ To host on github pages, i used a resume template and theme supported by github 
 
 ### **Author and Acknowledgement**
     * Author - Kehinde Elukanle
-    * Group Member
+    * Group Members
         * Robert Loader
         * Chang Geng
         * Michael Akpan
